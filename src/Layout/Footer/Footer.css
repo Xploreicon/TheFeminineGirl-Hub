@@ -1,0 +1,48 @@
+.footer {
+  margin-top: 2rem;
+  background-color: rgb(238, 238, 238);
+  text-align: center;
+}
+
+.footer__content {
+  padding: 4rem;
+}
+
+.footer__title {
+  font-size: 2.3rem;
+  font-weight: 500;
+}
+
+.footer__discription {
+  margin-top: 0.2rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.footer__logo {
+  width: 120px; /* Adjust to your preferred size */
+  height: auto; /* Maintains the aspect ratio of the image */
+  margin-bottom: 1rem; /* Optional: Adds spacing between the logo and other elements */
+  position: relative;
+  bottom: -10px;
+  right: 4px;
+}
+
+.sub-footer {
+  width: 100%;
+  background-color: rgb(53, 53, 53);
+  color: white;
+  padding: 1rem;
+}
+
+.footer__copyright {
+  color: white;
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+
+.footer__link {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+}
